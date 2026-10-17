@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.AnsuniAnkahiBate" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/romantic_burgundy</item>
+        <item name="colorPrimaryVariant">@color/romantic_burgundy</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/romantic_burgundy</item>
+        <item name="android:navigationBarColor">@color/dark_bg</item>
+    </style>
+</resources>
